@@ -19,7 +19,7 @@
 برای نصب این اپلیکیشن، دستورات زیر را اجرا کنید:
 
 ```bash
-git clone https://github.com/your-username/covid-19.git
+git clone https://github.com/geeksloths/covid-19-app.git
 cd covid-19
 flutter build apk
 ```
